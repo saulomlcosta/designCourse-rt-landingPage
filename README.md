@@ -28,7 +28,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [SCSS](https://sass-lang.com/documentation)
-- [Vanilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
+    
 ---
 Desenvolvido ❤️ Saulo Costa
